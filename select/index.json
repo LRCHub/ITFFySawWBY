@@ -1,0 +1,128 @@
+{
+  "version": 1,
+  "base_track": "BACK TO PARADISE",
+  "base_artist": "松原みき",
+  "createdAt": "2025-12-30T15:33:45.067779Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Back To Paradise",
+      "artist": "38 Special",
+      "has_synced": true,
+      "path": "select/01_Back_To_Paradise_38_Special.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Back To Paradise",
+      "artist": "38 Special - Anthology (2001) [FLAC]",
+      "has_synced": false,
+      "path": "select/02_Back_To_Paradise_38_Special_-_Anthology_(2001)_[FLAC].txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Back To Paradise",
+      "artist": "38 Special",
+      "has_synced": false,
+      "path": "select/03_Back_To_Paradise_38_Special.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Back To Paradise",
+      "artist": ".38 Special",
+      "has_synced": true,
+      "path": "select/04_Back_To_Paradise_.38_Special.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "BACK TO PARADISE",
+      "artist": "松原みき",
+      "has_synced": false,
+      "path": "select/05_BACK_TO_PARADISE_松原みき.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Back To Paradise (Craig Connelly Remix)",
+      "artist": "Ferry Corsten feat. Haris",
+      "has_synced": false,
+      "path": "select/06_Back_To_Paradise_(Craig_Connelly_Remix)_Ferry_Corsten_feat._Haris.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Back To Paradise (Craig Connelly Remix) (feat. Haris)",
+      "artist": "Ferry Corsten, Haris",
+      "has_synced": false,
+      "path": "select/07_Back_To_Paradise_(Craig_Connelly_Remix)_(feat._Haris)_Ferry_Corsten,_Haris.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Back to Paradise",
+      "artist": "Ferry Corsten feat. Haris",
+      "has_synced": false,
+      "path": "select/08_Back_to_Paradise_Ferry_Corsten_feat._Haris.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Back To Paradise (feat. Haris)",
+      "artist": "Ferry Corsten, Haris",
+      "has_synced": false,
+      "path": "select/09_Back_To_Paradise_(feat._Haris)_Ferry_Corsten,_Haris.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Back To Paradise",
+      "artist": "Reckless Love",
+      "has_synced": true,
+      "path": "select/10_Back_To_Paradise_Reckless_Love.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Back To Paradise - Remix",
+      "artist": "Reckless Love",
+      "has_synced": false,
+      "path": "select/11_Back_To_Paradise_-_Remix_Reckless_Love.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Back To Paradise",
+      "artist": "Phyllis Hyman",
+      "has_synced": false,
+      "path": "select/12_Back_To_Paradise_Phyllis_Hyman.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "BACK TO PARADISE",
+      "artist": "Miki Matsubara",
+      "has_synced": false,
+      "path": "select/13_BACK_TO_PARADISE_Miki_Matsubara.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Back to Paradise",
+      "artist": ".38 Special",
+      "has_synced": false,
+      "path": "select/14_Back_to_Paradise_.38_Special.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "BACK TO PARADISE",
+      "artist": "松原みき",
+      "has_synced": false,
+      "path": "select/pl_01_BACK_TO_PARADISE_松原みき.txt"
+    }
+  ]
+}
